@@ -3,7 +3,7 @@
 
 Reimagining the future of First-Aid delivery and training through the use of cutting edge technologies
 
-![Screenshot 2023-02-28 115648](https://user-images.githubusercontent.com/72056829/225498536-97888c9e-41cb-4c4e-b26d-ccb1cf9dd3a0.png)
+![Screenshot 2023-03-16 160242](https://user-images.githubusercontent.com/72056829/225501332-44a6cc31-eda9-4432-b382-e5710c6bf364.png)
  
 This repository contains the Unity code for the First-Aid AR and AI Training System, an application that guides users through the process of providing First-Aid assistance to casualties using advanced AR and AI technologies.
 
@@ -41,3 +41,14 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgements
 We would like to extend a special thank you to Red Cross New Zealand for their collaboration and support in this project. Red Cross provided us with invaluable First-Aid booklets that allowed us to base the content in our application on verified and authentic sources. Their support also allowed us to test and evaluate our system on medical manikins, which helped to speed up testing and evaluation and remove the dependence on human testers.
+
+
+<img width="755" alt="Screenshot 2023-03-16 160110" src="https://user-images.githubusercontent.com/72056829/225501405-8399087b-cd20-4500-a554-325ab35a2071.png">
+
+![Screenshot 2023-03-16 160209](https://user-images.githubusercontent.com/72056829/225501476-3ac72725-ef73-494e-ba3e-7efb3d1839d2.png)
+
+![Screenshot 2023-03-16 160303](https://user-images.githubusercontent.com/72056829/225501560-99d81ff4-f2f1-44c6-a689-77ff78d8b0b1.png)
+
+![Screenshot 2023-03-16 160320](https://user-images.githubusercontent.com/72056829/225501598-edccad6c-5c0a-4dd9-9afb-6bbe42551705.png)
+
+![Screenshot 2023-03-16 160331](https://user-images.githubusercontent.com/72056829/225501622-0ddefc24-0b40-4ac3-bf61-779dc8049a84.png)
