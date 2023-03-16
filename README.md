@@ -15,7 +15,7 @@ To run the application, you will need:
 ```
 
 
-Getting Started
+# Getting Started
 ```
  - Clone this repository to your local machine.
  - Open the Unity project in the Unity game engine.
@@ -25,14 +25,14 @@ Getting Started
 ```
 
 
-Usage
+# Usage
 Once the application is deployed to the AR headset, users can put on the headset and launch the application. The system guides users through the steps of performing First-Aid using holograms and speech recognition. The photorealistic avatar provides natural-sounding voice prompts, which are synchronized with the avatar's facial animations to create a more immersive experience.
 
-Contributions
+# Contributions
 Contributions to the code are welcome! Please create a pull request for any changes or improvements.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Acknowledgements
+# Acknowledgements
 We would like to extend a special thank you to Red Cross New Zealand for their collaboration and support in this project. Red Cross provided us with invaluable First-Aid booklets that allowed us to base the content in our application on verified and authentic sources. Their support also allowed us to test and evaluate our system on medical manikins, which helped to speed up testing and evaluation and remove the dependence on human testers.
