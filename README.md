@@ -1,27 +1,30 @@
-# Jind_AR_Project
- Reimagining the future of First-Aid delivery and training through the use of cutting edge technologies
+Reimagining the future of First-Aid delivery and training through the use of cutting edge technologies
  
 This repository contains the Unity code for the First-Aid AR and AI Training System, an application that guides users through the process of providing First-Aid assistance to casualties using advanced AR and AI technologies.
 
-## Requirements
+# Requirements
 To run the application, you will need:
 ```
- Microsoft HoloLens 1 AR headset
- Unity game engine
- HoloToolkit development toolkit
- Midjourney AI image generation tool
- Google Speech to Text API
- D-ID AI facial animation tool
- Windows Keyword Recognizer speech recognition library
+ - Microsoft HoloLens 1 AR headset
+ - Unity game engine
+ - HoloToolkit development toolkit
+ - Midjourney AI image generation tool
+ - Google Speech to Text API
+ - D-ID AI facial animation tool
+ - Windows Keyword Recognizer speech recognition library
 ```
 
 
 Getting Started
-Clone this repository to your local machine.
-Open the Unity project in the Unity game engine.
-Import the HoloToolkit package into the Unity project.
-Set up the speech recognition library and APIs in the Unity project.
-Build and deploy the application to the Microsoft HoloLens 1 AR headset.
+```
+ - Clone this repository to your local machine.
+ - Open the Unity project in the Unity game engine.
+ - Import the HoloToolkit package into the Unity project.
+ - Set up the speech recognition library and APIs in the Unity project.
+ - Build and deploy the application to the Microsoft HoloLens 1 AR headset.
+```
+
+
 Usage
 Once the application is deployed to the AR headset, users can put on the headset and launch the application. The system guides users through the steps of performing First-Aid using holograms and speech recognition. The photorealistic avatar provides natural-sounding voice prompts, which are synchronized with the avatar's facial animations to create a more immersive experience.
 
