@@ -43,7 +43,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 We would like to extend a special thank you to Red Cross New Zealand for their collaboration and support in this project. Red Cross provided us with invaluable First-Aid booklets that allowed us to base the content in our application on verified and authentic sources. Their support also allowed us to test and evaluate our system on medical manikins, which helped to speed up testing and evaluation and remove the dependence on human testers.
 
 
-<img width="755" alt="Screenshot 2023-03-16 160110" src="https://user-images.githubusercontent.com/72056829/225501405-8399087b-cd20-4500-a554-325ab35a2071.png">
+![Screenshot 2023-03-16 160110](https://user-images.githubusercontent.com/72056829/225501405-8399087b-cd20-4500-a554-325ab35a2071.png)
 
 ![Screenshot 2023-03-16 160209](https://user-images.githubusercontent.com/72056829/225501476-3ac72725-ef73-494e-ba3e-7efb3d1839d2.png)
 
