@@ -1,4 +1,6 @@
 Reimagining the future of First-Aid delivery and training through the use of cutting edge technologies
+
+![Screenshot 2023-02-28 115648](https://user-images.githubusercontent.com/72056829/225498536-97888c9e-41cb-4c4e-b26d-ccb1cf9dd3a0.png)
  
 This repository contains the Unity code for the First-Aid AR and AI Training System, an application that guides users through the process of providing First-Aid assistance to casualties using advanced AR and AI technologies.
 
