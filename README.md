@@ -1,9 +1,7 @@
-# Jind AR - An improved AR-based Model for First-Aid delivery using AI
-
-
-Reimagining the future of First-Aid delivery and training through the use of cutting edge technologies
-
 ![Screenshot 2023-03-16 160242](https://user-images.githubusercontent.com/72056829/225501332-44a6cc31-eda9-4432-b382-e5710c6bf364.png)
+
+
+# Reimagining the future of First-Aid delivery and training through the use of cutting edge technologies
  
 This repository contains the Unity code for the First-Aid AR and AI Training System, an application that guides users through the process of providing First-Aid assistance to casualties using advanced AR and AI technologies.
 
